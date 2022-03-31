@@ -1,5 +1,6 @@
 <?php
 
+
 return [
 
     /*
@@ -27,7 +28,7 @@ return [
 
     'exposed_headers' => false,
 
-    'max_age' => false,
+    'max_age' => 0,
 
     'supports_credentials' => false,
 
